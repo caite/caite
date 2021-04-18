@@ -1,7 +1,4 @@
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Caite.Caite)  [![Github](https://img.shields.io/github/followers/Caite?label=Follow&style=social)](https://github.com/Caite)
-### Hi there 👋
-
 <!--
 **caite/caite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,9 +35,6 @@
 <a href="https://github.com/caite" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/dracona1031" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/sarahevwalter" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -52,10 +46,10 @@
   
 <table><tr><td valign="top" width="50%">
 
-🎓 I'm studying Cloud Computing at [WGU](https://www.wgu.edu)
+🎓 I'm studying [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
-🌱 I'm currently taking *Automation and Scaling Tools (D085)*   
-learning Chef, Vagrant, and Virtual Box
+🌱 I'm currently taking *D085 Automation and Scaling Tools*   
+learning to use [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
 
 👩‍💻 I work full-time in K12 IT
 
