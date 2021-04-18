@@ -30,7 +30,6 @@
 -->
 
 ## Hey 👋, I'm Sarah W (@caite)  
-  
 
 <a href="https://github.com/caite" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,30 +47,30 @@
 
 🎓 I'm studying [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
-🌱 I'm currently taking *D085 Automation and Scaling Tools*   
-learning to use [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
+🌱 I'm taking *D085 Automation and Scaling Tools* learning [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
 
 👩‍💻 I work full-time in K12 IT
 
 ⚡ Fun fact: My current record for # of open Chrome tabs is 300  
 
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+
+
 </td><td valign="top" width="50%">
 
 <div align="center">
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
-[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
+</td></tr></table>
 
 
-</td></tr></table>  
 
-<br/>  
+  <h2 align="center">Languages and Tools  </h2>
 
-
-## Languages and Tools  
 <div align="center">  
+  <p align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
@@ -83,7 +82,7 @@ learning to use [Chef](https://docs.chef.io/platform_overview/) for infrastructu
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  </p>
 </div>  
 
 <br/>  
