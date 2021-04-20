@@ -47,11 +47,11 @@
 
 🎓 I'm studying [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
-🌱 I'm taking *D085 Automation and Scaling Tools* learning [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
+🌱 I'm currently taking a class in *Automation and Scaling Tools*, where I'm learning [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
 
 👩‍💻 I work full-time in K12 IT
 
-⚡ Fun fact: My current record for # of open Chrome tabs is 300  
+⚡ Fun fact: My current record for open Chrome tabs is 300  
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
