@@ -4,6 +4,7 @@
 
 
 
+- 🌱 I’m currently learning Azure
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Automation and Scaling Tools using Chef, Vagrant, and Virtual Box
 - 
@@ -15,8 +16,7 @@
 - ⚡ Fun fact: ...
 
 🎓 I'm currently studying Cloud Computing at Western Governors University 👩‍🎓 2021 (anticipated)  
-🔭 I’m currently working on D085 Automation and Scaling Tools  
-🌱 I’m currently learning Chef  
+🔭 I’m currently working on IT Written Project Capstone
 👩‍💻 I'm working full-time in K12 IT 
 
 ### My Stats
@@ -45,13 +45,11 @@
   
 <table><tr><td valign="top" width="50%">
 
-🎓 I'm studying [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
+🎓 I study [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
-🌱 I'm currently taking a class in *Automation and Scaling Tools*, where I'm learning [Chef](https://docs.chef.io/platform_overview/) for infrastructure management
+👩‍💻 I work full-time in IT in K12 Education
 
-👩‍💻 I work full-time in K12 IT
-
-⚡ Fun fact: My current record for open Chrome tabs is 300  
+🔭 I’m currently working on my IT Written Project Capstone
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
