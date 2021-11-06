@@ -25,7 +25,7 @@
 
 | Wakatime | GitHub |
 | :-: | :-: |
-| [![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caite&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Caite&show_icons=true&count_private=true&hide=stars,prs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caite)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Caite&show_icons=true&count_private=true&hide=stars,prs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 -->
 
