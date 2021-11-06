@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
 </td></tr></table>
