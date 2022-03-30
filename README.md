@@ -15,9 +15,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🎓 I'm currently studying Cloud Computing at Western Governors University 👩‍🎓 2021 (anticipated)  
-🔭 I’m currently working on IT Written Project Capstone
-👩‍💻 I'm working full-time in K12 IT 
+🎓 I recently earned my Bachelor's in Cloud Computing at Western Governors University 👩‍🎓
+👩‍💻 I  working full-time in K12 IT 
 
 ### My Stats
 
@@ -45,11 +44,11 @@
   
 <table><tr><td valign="top" width="50%">
 
-🎓 I study [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
+🎓 I studied [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
 👩‍💻 I work full-time in IT in K12 Education
 
-🔭 I’m currently working on my IT Written Project Capstone
+🔭 I’m currently working on Coursera's [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) certificate
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
