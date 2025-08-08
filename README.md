@@ -48,7 +48,7 @@
 
 👩‍💻 I work full-time in IT in K12 Education
 
-🔭 I’m currently working on Coursera's [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) certificate
+- 🔭 I’m currently working on Coursera's [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) certificate
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
