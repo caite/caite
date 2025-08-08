@@ -29,44 +29,28 @@
 
 -->
 
-## Hey 👋, @caite
+## Hey 👋, I'm @caite
 
-<a href="https://github.com/caite" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sarahevwalter" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+![Static Badges](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&label=%20)
+![Static Badges](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=%20)
 
 
+### Glad to see you here!   
 
+🎓  I studied [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html/) at [WGU](https://www.wgu.edu)
 
-### Glad to see you here!    
-  
-<table><tr><td valign="top" width="60%">
+👩‍💻 I work full-time in IT in K12 Education 
 
-🎓 I studied [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
-
-👩‍💻 I work full-time in IT in K12 Education
-
+<br>
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
+## Languages and Tools
 
-</td><td valign="top" width="40%">
-
-<div align="center">
-
-[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>  
-</td></tr></table>
-
-
-
-  <h2 align="center">Languages and Tools  </h2>
-
-<div align="center">  
-  <p align="center">
+<div>  
+  <br>
+  <p>
+<img src="https://img.spacergif.org/spacer.gif" width="25" height="1">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
@@ -77,37 +61,24 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  </p>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />    </p>
 </div>  
 
-<br/>  
+[![caite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caite&layout=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caite&hide_border=true&layout=compact&langs_count=10)
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=caite&show_icons=true&count_private=true&hide_border=true&hide_title=true&hide_rank=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caite&hide_border=true&layout=compact&langs_count=10" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caite&show_icons=true&count_private=true&hide_border=true&hide_title=true&hide_rank=true)
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caite&hide_border=true&layout=compact&langs_count=10" align="center"/></a> 
+-->
 
 <br/>  
-
+<br/>  
+<div align="right">
   
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=caite&&style=flat-square)  
-  
+</div>
 
-<br/>  
+---
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="right">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
