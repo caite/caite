@@ -31,12 +31,6 @@
 
 ## Hey 👋, I'm @caite
 
-![Static Badges](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&label=%20)
-![Static Badges](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=%20)
-
-
-### Glad to see you here!   
-
 🎓  I studied [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html/) at [WGU](https://www.wgu.edu)
 
 👩‍💻 I work full-time in IT in K12 Education 
