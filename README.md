@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Azure
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Automation and Scaling Tools using Chef, Vagrant, and Virtual Box
+- 🔭 I’m currently working on Coursera's [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) certificate
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -47,8 +48,6 @@
 🎓 I studied [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://www.wgu.edu)
 
 👩‍💻 I work full-time in IT in K12 Education
-
-- 🔭 I’m currently working on Coursera's [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) certificate
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 
